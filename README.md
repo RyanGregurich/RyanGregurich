@@ -1,16 +1,18 @@
-### Hi there 👋
+***<h1>Hello World, I'm Ryan, your <a href="https://www.linkedin.com/in/ryangregurich/">IT Specialist</a>,  
+Welcome to my showcase!***
+<h2>🔒💻 IT and CyberSecurity Projects 💻🔒</h2>
 
-<!--
-**RyanGregurich/RyanGregurich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ***<h3>Projects to be added soon!</h3>***
 
-Here are some ideas to get you started:
+<h2> Certifications </h2>
+    
+- <a href="https://www.credly.com/badges/84bacadd-b25a-4bb0-9a21-0ecf114d44fd/public_url">CompTIA A+ </a>
+- <a href="https://www.credly.com/badges/9cd73811-e65b-4f74-98d8-d75cccafe7cb/public_url">CompTIA Network+</a>
+- <a href="https://www.credly.com/badges/3cc06d90-c71c-456d-bf62-03cedf8d943d/public_url">CompTIA Security+</a>
+- CCNA in progress
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 📲 Connect with me</h2>
+
+[<img align="left" alt="RyanGregurich | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/ryangregurich/
