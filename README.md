@@ -4,7 +4,7 @@ Welcome to my showcase!***
 
 - ***<h3>Projects to be added soon!</h3>***
 
-<h2> My Self-Study IT Journey and Learning Experiences: Text-based Posts + Images </h2>
+<h2> My self-Study IT Journey (Courses + Learning Experiences: Text-based Posts + Images) </h2>
 
 - ***<h3>To be added soon!</h3>***
 
