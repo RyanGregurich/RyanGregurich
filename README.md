@@ -4,6 +4,10 @@ Welcome to my showcase!***
 
 - ***<h3>Projects to be added soon!</h3>***
 
+<h2> IT Courses and Learning Experiences (Text based post + images) </h2>
+
+- ***<h3>To be added soon!</h3>***
+
 <h2> Certifications </h2>
     
 - <a href="https://www.credly.com/badges/84bacadd-b25a-4bb0-9a21-0ecf114d44fd/public_url">CompTIA A+ </a>
